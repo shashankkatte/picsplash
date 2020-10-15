@@ -1,8 +1,8 @@
 # Picsplash
 
-A react app using react clas and functional components and state system calling an external API - Unsplash
+A React App that takes a search terms and shows images from Unsplash API.
 
-## Concepets covered
+## Concepts covered
 
 1. Class based and functional react components
 2. Event handlers - communicating from parent to child using call backs
